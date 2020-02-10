@@ -1,1 +1,1 @@
-This library is required: https://discord.js.org/
+Simple work in progress Discord music bot.
